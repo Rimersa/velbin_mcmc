@@ -9,7 +9,7 @@ import corner, emcee
 
 from  function.binaries import *
 from  function.mcmc_func import *
-
+#test
 def mcmc_setting(args):
     """you can change the value here for MCMC walkers
 
